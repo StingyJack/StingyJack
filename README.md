@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @StingyJack
-- 👀 I’m interested in self improvement
-- 🌱 I’m currently learning how to SMAW
-- 💞️ I’m looking to collaborate on "making designer soaps" and making software patterns that are easy to follow, not confusing, and arent interpreted in vastly different ways.
+- 👀 I’m interested and willing to collaborate on lots of things. 
+- 💞️ I prefer making and using patterns for solutions that are blatantly easy to follow
 - 📫 How to reach me ...create an issue in one of my repos and make sure to tag me in it.
 
 <!---
